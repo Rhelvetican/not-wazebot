@@ -1,0 +1,1 @@
+web: python3 -m not_wazebot
